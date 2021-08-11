@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CaravansRestBeforeArrival_DoNotEnterIf>Caravans do not enter a map until all members' needs reach at least: </CaravansRestBeforeArrival_DoNotEnterIf>
+	<CaravansRestBeforeArrival_RestThreshold>Rest: </CaravansRestBeforeArrival_RestThreshold>
+	<CaravansRestBeforeArrival_FoodThreshold>Food: </CaravansRestBeforeArrival_FoodThreshold>
+	<CaravansRestBeforeArrival_NoFoodAction>If food needs are not met but the caravan is out of food: </CaravansRestBeforeArrival_NoFoodAction>
+	<CaravansRestBeforeArrival_NoFoodActionRest>Rest</CaravansRestBeforeArrival_NoFoodActionRest>
+	<CaravansRestBeforeArrival_NoFoodActionRestNotify>Rest and get a notification</CaravansRestBeforeArrival_NoFoodActionRestNotify>
+	<CaravansRestBeforeArrival_NoFoodActionEnter>Enter anyway</CaravansRestBeforeArrival_NoFoodActionEnter>
+	<CaravansRestBeforeArrival_NoFoodLetterLabel>Caravan arrived with no food</CaravansRestBeforeArrival_NoFoodLetterLabel>
+	<CaravansRestBeforeArrival_NoFoodLetterText>{0} has reached its destination and is resting because someone's food need is below {1}, but the caravan has no food and will continue to rest until it receives or gathers enough food.\n\nYou can toggle off the caravan's rest switch to proceed immediately.</CaravansRestBeforeArrival_NoFoodLetterText>
+</LanguageData>
